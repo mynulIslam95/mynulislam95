@@ -100,9 +100,6 @@ Automation always<br>
 Clean architecture matters<br>
 Consistency builds expertise<br>
 
----
 
-## Collaboration<br><br>
 
-Open to technical discussions, collaboration and data engineering opportunities.<br>
-This profile reflects continuous engineering practice and structured technical growth.
+
