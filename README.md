@@ -1,12 +1,8 @@
 # About Me<br><br>
 
 Data engineer focused on building scalable data systems, production pipelines and strong algorithmic foundations aligned with real world data engineering practice.<br><br>
-
 Work centers on distributed data processing, cloud platforms, orchestration, warehousing, streaming analytics and performance optimization. Strong emphasis on reliability, maintainability and practical engineering clarity.<br><br>
-
 Hands on experience includes batch pipelines, real time data workflows, CI/CD automation, warehouse modeling, cloud data architecture and structured algorithmic problem solving.<br><br>
-
----
 
 ## Engineering Focus<br><br>
 
@@ -16,8 +12,6 @@ Warehouse design and transformation layers<br>
 Cloud data platform implementation<br>
 CI/CD automation for data workflows<br>
 Performance optimization and system efficiency<br>
-
----
 
 ## Tech Stack:<br><br>
 
@@ -48,8 +42,6 @@ Performance optimization and system efficiency<br>
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
 ## Engineering Highlights<br><br>
 
 Built batch and real time data pipelines across multiple domains<br>
@@ -58,8 +50,6 @@ Implemented CDC ingestion, orchestration and streaming analytics<br>
 Applied monitoring, logging, testing and deployment automation<br>
 
 Focus stays on production readiness, scalability and clean system design.<br><br>
-
----
 
 ## Algorithmic Foundations<br><br>
 
@@ -74,8 +64,6 @@ Dynamic programming optimization<br>
 
 This strengthens analytical thinking and system efficiency awareness.<br><br>
 
----
-
 ## Production Engineering Skills<br><br>
 
 Performance optimization and debugging<br>
@@ -85,13 +73,9 @@ API integration and automation pipelines<br>
 Version control and deployment workflows<br>
 Data quality validation and monitoring<br>
 
----
-
 ## Professional Learning<br><br>
 
 Advanced training completed across big data platforms, orchestration, cloud data engineering, DevOps automation and warehouse modeling with hands on project implementation.<br>
-
----
 
 ## Engineering Principles<br><br>
 
