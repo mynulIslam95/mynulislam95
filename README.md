@@ -1,22 +1,14 @@
 <div align="center">
 
 # **Data Engineer**
+
 ### *Scalable systems · Reliable pipelines · Production-first*
 
-*Building data infrastructure that scales, ships, and doesn’t break.*
+*Infrastructure that scales, ships, and stays up.*
+
+<sub><code>pipelines · data platforms · reliability</code></sub>
 
 </div>
-
----
-
-- [What I Do](#-what-i-do)
-- [Engineering Focus](#-engineering-focus)
-- [Tech Stack](#-tech-stack)
-- [What I’ve Built](#-what-ive-built)
-- [Algorithmic Foundations](#-algorithmic-foundations)
-- [Production Engineering](#-production-engineering)
-- [Learning & Growth](#-learning--growth)
-- [Principles](#-principles)
 
 ---
 
@@ -26,9 +18,13 @@ I design and build **scalable data systems** and **production-grade pipelines**�
 
 **In practice:** batch and real-time pipelines, CDC ingestion, warehouse modeling, CI/CD for data workflows, and algorithmic thinking applied to system design.
 
+*The goal: data you can trust, pipelines you can forget about.*
+
 ---
 
 ## **Engineering Focus**
+
+*Where I spend my time:*
 
 | Area | Focus |
 |------|--------|
@@ -42,7 +38,7 @@ I design and build **scalable data systems** and **production-grade pipelines**�
 ## **Tech Stack**
 
 <p align="center">
-  <i>Tools and platforms I build with</i>
+  <b>Stack I ship with</b>
 </p>
 
 <table align="center">
@@ -102,16 +98,18 @@ I design and build **scalable data systems** and **production-grade pipelines**�
 
 ## **What I’ve Built**
 
-- **Batch & real-time pipelines** across multiple domains
+- **Batch & real-time pipelines** that run across multiple domains
 - **Warehouse layers** with transformation and validation logic
 - **CDC ingestion**, orchestration, and streaming analytics
 - **Monitoring, logging, testing**, and deployment automation
 
-*Focus: production readiness, scalability, clean system design.*
+*Production readiness, scalability, and clean system design—every time.*
 
 ---
 
 ## **Algorithmic Foundations**
+
+*Strong systems need strong thinking.*
 
 Rigorous DSA practice aligned with data engineering:
 
@@ -128,6 +126,8 @@ Rigorous DSA practice aligned with data engineering:
 
 ## **Production Engineering**
 
+*How I operate in production:*
+
 | Skill | Practice |
 |-------|----------|
 | **Performance** | Optimization and debugging |
@@ -141,6 +141,8 @@ Rigorous DSA practice aligned with data engineering:
 
 ## **Learning & Growth**
 
+*Never stop shipping or learning.*
+
 Ongoing advanced training in big data platforms, orchestration, cloud data engineering, DevOps automation, and warehouse modeling—with hands-on project implementation.
 
 ---
@@ -148,3 +150,6 @@ Ongoing advanced training in big data platforms, orchestration, cloud data engin
 ## **Principles**
 
 > **Scale first** · **Automate always** · **Architecture matters** · **Consistency compounds**
+>
+> *— How I build.*
+
