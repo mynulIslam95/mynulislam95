@@ -1,19 +1,48 @@
-# About Me<br><br>
+<div align="center">
 
-Data engineer focused on building scalable data systems, production pipelines and strong algorithmic foundations aligned with real world data engineering practice.<br><br>
-Work centers on distributed data processing, cloud platforms, orchestration, warehousing, streaming analytics and performance optimization. Strong emphasis on reliability, maintainability and practical engineering clarity.<br><br>
-Hands on experience includes batch pipelines, real time data workflows, CI/CD automation, warehouse modeling, cloud data architecture and structured algorithmic problem solving.<br><br>
+# **Data Engineer**
+### *Scalable systems · Reliable pipelines · Production-first*
 
-## Engineering Focus<br><br>
+*Building data infrastructure that scales, ships, and doesn’t break.*
 
-Data pipeline architecture and orchestration<br>
-Batch and streaming data processing<br>
-Warehouse design and transformation layers<br>
-Cloud data platform implementation<br>
-CI/CD automation for data workflows<br>
-Performance optimization and system efficiency<br>
+</div>
 
-## Tech Stack:<br><br>
+---
+
+- [What I Do](#-what-i-do)
+- [Engineering Focus](#-engineering-focus)
+- [Tech Stack](#-tech-stack)
+- [What I’ve Built](#-what-ive-built)
+- [Algorithmic Foundations](#-algorithmic-foundations)
+- [Production Engineering](#-production-engineering)
+- [Learning & Growth](#-learning--growth)
+- [Principles](#-principles)
+
+---
+
+## **What I Do**
+
+I design and build **scalable data systems** and **production-grade pipelines**—from batch ETL to real-time streaming—with a focus on **reliability**, **maintainability**, and **clear architecture**. Work spans distributed processing, cloud data platforms, orchestration, warehousing, and performance optimization.
+
+**In practice:** batch and real-time pipelines, CDC ingestion, warehouse modeling, CI/CD for data workflows, and algorithmic thinking applied to system design.
+
+---
+
+## **Engineering Focus**
+
+| Area | Focus |
+|------|--------|
+| **Pipelines** | Architecture, orchestration, batch + streaming |
+| **Data platform** | Warehouse design, transformation layers, cloud implementation |
+| **Operations** | CI/CD automation, performance tuning, system efficiency |
+| **Quality** | Monitoring, validation, deployment automation |
+
+---
+
+## **Tech Stack**
+
+<details>
+<summary><b>Languages & core</b></summary>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -21,69 +50,90 @@ Performance optimization and system efficiency<br>
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
-![ApacheSpark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apache-spark&logoColor=black)
-![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apache-kafka)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow)
+</details>
+
+<details>
+<summary><b>Processing & streaming</b></summary>
+
+![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apache-spark&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
-![Databricks](https://img.shields.io/badge/Databricks-red?style=for-the-badge&logo=databricks)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+</details>
+
+<details>
+<summary><b>Warehouse & analytics</b></summary>
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift)
+</details>
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<details>
+<summary><b>Cloud & infra</b></summary>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## Engineering Highlights<br><br>
+</details>
 
-Built batch and real time data pipelines across multiple domains<br>
-Designed warehouse layers with transformation and validation logic<br>
-Implemented CDC ingestion, orchestration and streaming analytics<br>
-Applied monitoring, logging, testing and deployment automation<br>
+---
 
-Focus stays on production readiness, scalability and clean system design.<br><br>
+## **What I’ve Built**
 
-## Algorithmic Foundations<br><br>
+- **Batch & real-time pipelines** across multiple domains
+- **Warehouse layers** with transformation and validation logic
+- **CDC ingestion**, orchestration, and streaming analytics
+- **Monitoring, logging, testing**, and deployment automation
 
-Structured DSA practice aligned with data engineering:<br><br>
+*Focus: production readiness, scalability, clean system design.*
 
-Data cleaning and aggregation patterns<br>
-Streaming and hashing techniques<br>
-Memory efficient structures<br>
-Search optimization strategies<br>
-Graph, tree and dependency modeling<br>
-Dynamic programming optimization<br>
+---
 
-This strengthens analytical thinking and system efficiency awareness.<br><br>
+## **Algorithmic Foundations**
 
-## Production Engineering Skills<br><br>
+Rigorous DSA practice aligned with data engineering:
 
-Performance optimization and debugging<br>
-Concurrency and distributed processing<br>
-Database modeling and schema design<br>
-API integration and automation pipelines<br>
-Version control and deployment workflows<br>
-Data quality validation and monitoring<br>
+- Data cleaning and aggregation patterns
+- Streaming and hashing techniques
+- Memory-efficient structures
+- Search and optimization strategies
+- Graph, tree, and dependency modeling
+- Dynamic programming for optimization
 
-## Professional Learning<br><br>
+*Applied to analytical reasoning and system efficiency.*
 
-Advanced training completed across big data platforms, orchestration, cloud data engineering, DevOps automation and warehouse modeling with hands on project implementation.<br>
+---
 
-## Engineering Principles<br><br>
+## **Production Engineering**
 
-Scalable first<br>
-Automation always<br>
-Clean architecture matters<br>
-Consistency builds expertise<br>
+| Skill | Practice |
+|-------|----------|
+| **Performance** | Optimization and debugging |
+| **Distributed systems** | Concurrency and parallel processing |
+| **Data modeling** | Schema design and database modeling |
+| **Integration** | API pipelines and automation |
+| **DevOps** | Version control and deployment workflows |
+| **Quality** | Validation, monitoring, and observability |
 
+---
 
+## **Learning & Growth**
 
+Ongoing advanced training in big data platforms, orchestration, cloud data engineering, DevOps automation, and warehouse modeling—with hands-on project implementation.
 
+---
+
+## **Principles**
+
+> **Scale first** · **Automate always** · **Architecture matters** · **Consistency compounds**
