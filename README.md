@@ -100,7 +100,7 @@ I design and build **scalable data systems** and **production-grade pipelines**-
 
 - **Batch & real-time pipelines** that run across multiple domains
 - **Warehouse layers** with transformation and validation logic
-- **CDC ingestion**, orchestration, and streaming analytics
+- **CDC ingestion**, orchestration and streaming analytics
 - **Monitoring, logging, testing** and deployment automation
 
 *Production readiness, scalability and clean system design-every time.*
@@ -117,7 +117,7 @@ Rigorous DSA practice aligned with data engineering:
 - Streaming and hashing techniques
 - Memory-efficient structures
 - Search and optimization strategies
-- Graph, tree, and dependency modeling
+- Graph, tree and dependency modeling
 - Dynamic programming for optimization
 
 *Applied to analytical reasoning and system efficiency.*
