@@ -143,7 +143,7 @@ Rigorous DSA practice aligned with data engineering:
 
 *Never stop shipping or learning.*
 
-Ongoing advanced training in big data platforms, orchestration, cloud data engineering, DevOps automation, and warehouse modeling—with hands-on project implementation.
+Ongoing advanced training in big data platforms, orchestration, cloud data engineering, DevOps automation, and warehouse modeling-with hands-on project implementation.
 
 ---
 
@@ -151,5 +151,5 @@ Ongoing advanced training in big data platforms, orchestration, cloud data engin
 
 > **Scale first** · **Automate always** · **Architecture matters** · **Consistency compounds**
 >
-> *— How I build.*
+> *- How I build.*
 
