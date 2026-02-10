@@ -14,7 +14,7 @@
 
 ## **What I Do**
 
-I design and build **scalable data systems** and **production-grade pipelines**—from batch ETL to real-time streaming—with a focus on **reliability**, **maintainability**, and **clear architecture**. Work spans distributed processing, cloud data platforms, orchestration, warehousing, and performance optimization.
+I design and build **scalable data systems** and **production-grade pipelines**-from batch ETL to real-time streaming-with a focus on **reliability**, **maintainability**, and **clear architecture**. Work spans distributed processing, cloud data platforms, orchestration, warehousing, and performance optimization.
 
 **In practice:** batch and real-time pipelines, CDC ingestion, warehouse modeling, CI/CD for data workflows, and algorithmic thinking applied to system design.
 
