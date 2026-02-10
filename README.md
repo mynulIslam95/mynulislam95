@@ -101,9 +101,9 @@ I design and build **scalable data systems** and **production-grade pipelines**-
 - **Batch & real-time pipelines** that run across multiple domains
 - **Warehouse layers** with transformation and validation logic
 - **CDC ingestion**, orchestration, and streaming analytics
-- **Monitoring, logging, testing**, and deployment automation
+- **Monitoring, logging, testing** and deployment automation
 
-*Production readiness, scalability, and clean system design-every time.*
+*Production readiness, scalability and clean system design-every time.*
 
 ---
 
@@ -135,7 +135,7 @@ Rigorous DSA practice aligned with data engineering:
 | **Data modeling** | Schema design and database modeling |
 | **Integration** | API pipelines and automation |
 | **DevOps** | Version control and deployment workflows |
-| **Quality** | Validation, monitoring, and observability |
+| **Quality** | Validation, monitoring and observability |
 
 ---
 
@@ -143,7 +143,7 @@ Rigorous DSA practice aligned with data engineering:
 
 *Never stop shipping or learning.*
 
-Ongoing advanced training in big data platforms, orchestration, cloud data engineering, DevOps automation, and warehouse modeling-with hands-on project implementation.
+Ongoing advanced training in big data platforms, orchestration, cloud data engineering, DevOps automation and warehouse modeling-with hands-on project implementation.
 
 ---
 
