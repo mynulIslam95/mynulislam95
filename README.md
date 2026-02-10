@@ -103,7 +103,7 @@ I design and build **scalable data systems** and **production-grade pipelines**-
 - **CDC ingestion**, orchestration, and streaming analytics
 - **Monitoring, logging, testing**, and deployment automation
 
-*Production readiness, scalability, and clean system design—every time.*
+*Production readiness, scalability, and clean system design-every time.*
 
 ---
 
