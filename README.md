@@ -4,7 +4,7 @@
 
 ### *Scalable systems · Reliable pipelines · Production-first*
 
-*Infrastructure that scales, ships, and stays up.*
+*Infrastructure that scales, ships and stays up.*
 
 <sub><code>pipelines · data platforms · reliability</code></sub>
 
