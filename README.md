@@ -10,14 +10,14 @@ Building practical AI systems powered by modern large language models.
 
 ---
 
-# About Me
+## About Me
 
 I build **Generative AI systems** using large language models, retrieval pipelines and agent-based workflows.
 
 My focus is turning GenAI ideas into **reliable and production-ready applications**.  
-This includes RAG pipelines, agent orchestration, model fine-tuning, evaluation frameworks and scalable deployment.
+This includes RAG pipelines, AI agents, model orchestration, fine-tuning workflows, evaluation frameworks and scalable deployment.
 
-I enjoy building AI systems that are **useful in real workflows**, not just experimental demos.
+I enjoy building AI systems that solve **real problems in real workflows**, not just experimental demos.
 
 ---
 
@@ -25,9 +25,9 @@ I enjoy building AI systems that are **useful in real workflows**, not just expe
 
 | Area | Focus |
 |-----|------|
-| LLM Engineering | prompts, structured outputs, inference pipelines |
+| LLM Engineering | prompt design, structured outputs, inference pipelines |
 | RAG Systems | ingestion, chunking, embeddings, retrieval |
-| Agentic AI | tool use, reasoning loops, orchestration |
+| Agentic AI | planning, reasoning loops, tool usage |
 | Fine-Tuning | LoRA, QLoRA, PEFT |
 | LLMOps | evaluation, monitoring, reliability |
 | Deployment | scalable AI applications |
@@ -36,13 +36,12 @@ I enjoy building AI systems that are **useful in real workflows**, not just expe
 
 # Tech Stack
 
-## Languages & Foundations
+## Languages & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
@@ -50,13 +49,8 @@ I enjoy building AI systems that are **useful in real workflows**, not just expe
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-
----
-
-## LLM Frameworks
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
@@ -65,12 +59,11 @@ I enjoy building AI systems that are **useful in real workflows**, not just expe
 
 ---
 
-## RAG & Vector Databases
+## RAG & Vector Search
 
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-2C2C2C?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Search-blue?style=for-the-badge)
 
 ---
 
@@ -84,22 +77,38 @@ I enjoy building AI systems that are **useful in real workflows**, not just expe
 
 ---
 
-## Evaluation & Safety
+## Backend & APIs
 
-![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-blue?style=for-the-badge)
-![LLM as Judge](https://img.shields.io/badge/LLM_as_Judge-Evaluation-purple?style=for-the-badge)
-![Guardrails](https://img.shields.io/badge/Guardrails-AI_Safety-red?style=for-the-badge)
-![Prompt Validation](https://img.shields.io/badge/Prompt_Validation-Security-orange?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ---
 
-## Engineering & Infrastructure
+## Python Engineering
+
+- Object Oriented Programming (OOP)
+- Async Python
+- Python Multithreading
+- API development
+- data processing pipelines
+
+---
+
+## Evaluation & Safety
+
+![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-blue?style=for-the-badge)
+![Guardrails](https://img.shields.io/badge/Guardrails-AI_Safety-red?style=for-the-badge)
+![LLM_as_Judge](https://img.shields.io/badge/LLM_as_Judge-Evaluation-purple?style=for-the-badge)
+
+---
+
+## Infrastructure & DevOps
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
