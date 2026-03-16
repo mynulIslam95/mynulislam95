@@ -1,154 +1,147 @@
 <div align="center">
 
-# **Data Engineer**
+# Generative AI Engineer
 
-### *Scalable systems · Reliable pipelines · Production-first*
+### LLM Systems · RAG · Agentic AI · Fine-Tuning · LLMOps
 
-*Infrastructure that scales, ships and stays up.*
-
-<sub><code>pipelines · data platforms · reliability</code></sub>
+Building practical AI systems powered by modern large language models.
 
 </div>
 
 ---
 
-## **What I Do**
+# About Me
 
-I design and build **scalable data systems** and **production-grade pipelines**-from batch ETL to real-time streaming-with a focus on **reliability**, **maintainability** and **clear architecture**. Work spans distributed processing, cloud data platforms, orchestration, warehousing and performance optimization.
+I build **Generative AI systems** using large language models, retrieval pipelines and agent-based workflows.
 
-**In practice:** batch and real-time pipelines, CDC ingestion, warehouse modeling, CI/CD for data workflows and algorithmic thinking applied to system design.
+My focus is turning GenAI ideas into **reliable and production-ready applications**.  
+This includes RAG pipelines, agent orchestration, model fine-tuning, evaluation frameworks and scalable deployment.
 
-*The goal: data you can trust, pipelines you can forget about.*
+I enjoy building AI systems that are **useful in real workflows**, not just experimental demos.
 
 ---
 
-## **Engineering Focus**
-
-*Where I spend my time:*
+# Core Focus
 
 | Area | Focus |
-|------|--------|
-| **Pipelines** | Architecture, orchestration, batch + streaming |
-| **Data platform** | Warehouse design, transformation layers, cloud implementation |
-| **Operations** | CI/CD automation, performance tuning, system efficiency |
-| **Quality** | Monitoring, validation, deployment automation |
+|-----|------|
+| LLM Engineering | prompts, structured outputs, inference pipelines |
+| RAG Systems | ingestion, chunking, embeddings, retrieval |
+| Agentic AI | tool use, reasoning loops, orchestration |
+| Fine-Tuning | LoRA, QLoRA, PEFT |
+| LLMOps | evaluation, monitoring, reliability |
+| Deployment | scalable AI applications |
 
 ---
 
-## **Tech Stack**
+# Tech Stack
 
-<p align="center">
-  <b>Stack I ship with</b>
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-#### Languages & core
+## Languages & Foundations
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-</td>
-<td align="center" width="50%">
+---
 
-#### Processing & streaming
+## LLM & Generative AI
 
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+---
 
-#### Warehouse & analytics
+## LLM Frameworks
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-5C2D91?style=for-the-badge)
 
-</td>
-<td align="center" width="50%">
+---
 
-#### Cloud & infra
+## RAG & Vector Databases
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-2C2C2C?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Search-blue?style=for-the-badge)
+
+---
+
+## Fine-Tuning
+
+![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge)
+![PEFT](https://img.shields.io/badge/PEFT-Fine_Tuning-orange?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-Parameter_Efficient-blue?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/QLoRA-Quantized_Fine_Tuning-purple?style=for-the-badge)
+![Unsloth](https://img.shields.io/badge/Unsloth-LLM_Training-green?style=for-the-badge)
+
+---
+
+## Evaluation & Safety
+
+![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-blue?style=for-the-badge)
+![LLM as Judge](https://img.shields.io/badge/LLM_as_Judge-Evaluation-purple?style=for-the-badge)
+![Guardrails](https://img.shields.io/badge/Guardrails-AI_Safety-red?style=for-the-badge)
+![Prompt Validation](https://img.shields.io/badge/Prompt_Validation-Security-orange?style=for-the-badge)
+
+---
+
+## Engineering & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</td>
-</tr>
-</table>
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## **What I’ve Built**
+# Systems I Build
 
-- **Batch & real-time pipelines** that run across multiple domains
-- **Warehouse layers** with transformation and validation logic
-- **CDC ingestion**, orchestration and streaming analytics
-- **Monitoring, logging, testing** and deployment automation
+### RAG Applications
+AI systems that combine LLMs with external knowledge to reduce hallucination and improve reliability.
 
-*Production readiness, scalability and clean system design-every time.*
+### Agentic AI Systems
+Multi-agent architectures capable of reasoning, planning and tool usage.
 
----
+### Fine-Tuned Models
+Domain-adapted models trained using parameter-efficient fine-tuning techniques.
 
-## **Algorithmic Foundations**
-
-*Strong systems need strong thinking.*
-
-Rigorous DSA practice aligned with data engineering:
-
-- Data cleaning and aggregation patterns
-- Streaming and hashing techniques
-- Memory-efficient structures
-- Search and optimization strategies
-- Graph, tree and dependency modeling
-- Dynamic programming for optimization
-
-*Applied to analytical reasoning and system efficiency.*
+### Production GenAI Applications
+End-to-end AI systems including backend APIs, evaluation pipelines and deployment infrastructure.
 
 ---
 
-## **Production Engineering**
+# Engineering Style
 
-*How I operate in production:*
+I prefer systems that are:
 
-| Skill | Practice |
-|-------|----------|
-| **Performance** | Optimization and debugging |
-| **Distributed systems** | Concurrency and parallel processing |
-| **Data modeling** | Schema design and database modeling |
-| **Integration** | API pipelines and automation |
-| **DevOps** | Version control and deployment workflows |
-| **Quality** | Validation, monitoring and observability |
+- grounded instead of hallucinated  
+- practical instead of flashy  
+- scalable instead of fragile  
+- cleanly designed instead of patched together  
 
 ---
 
-## **Learning & Growth**
+# Current Focus
 
-*Never stop shipping or learning.*
-
-Ongoing advanced training in big data platforms, orchestration, cloud data engineering, DevOps automation and warehouse modeling-with hands-on project implementation.
+- advanced RAG architectures  
+- agentic AI systems  
+- LLM evaluation frameworks  
+- scalable AI deployment  
 
 ---
 
-## **Principles**
+<div align="center">
 
-> **Scale first** · **Automate always** · **Architecture matters** · **Consistency compounds**
->
-> *- How I build.*
+Building intelligent systems that are useful, reliable and scalable.
 
+</div>
