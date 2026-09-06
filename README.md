@@ -1,156 +1,94 @@
 <div align="center">
 
-# Generative AI Engineer
+# Mynul Islam
 
-### LLM Systems · RAG · Agentic AI · Fine-Tuning · LLMOps
+### Master's student · Information Engineering · Hamburg
 
-Building practical AI systems powered by modern large language models.
+AI security · LLM guardrails · red teaming · Python
 
 </div>
 
 ---
 
-## About Me
+## About me
 
-I build **Generative AI systems** using large language models, retrieval pipelines and agent-based workflows.
+I am a Master's student in **Information and Communication Engineering** at HAW Hamburg.
 
-My focus is turning GenAI ideas into **reliable and production-ready applications**.  
-This includes RAG pipelines, AI agents, model orchestration, fine-tuning workflows, evaluation frameworks and scalable deployment.
+I build small, working **AI security** tools in Python: assistants with input and output checks, and test suites that try to break those checks and write a report.
 
-I enjoy building AI systems that solve **real problems in real workflows**, not just experimental demos.
+I also have working-student experience in **IT governance and operations** (process documentation, service tracking, stakeholder communication).
 
----
-
-# Core Focus
-
-| Area | Focus |
-|-----|------|
-| LLM Engineering | prompt design, structured outputs, inference pipelines |
-| RAG Systems | ingestion, chunking, embeddings, retrieval |
-| Agentic AI | planning, reasoning loops, tool usage |
-| Fine-Tuning | LoRA, QLoRA, PEFT |
-| LLMOps | evaluation, monitoring, reliability |
-| Deployment | scalable AI applications |
+I want to grow into AI security on real product teams — not notebook demos.
 
 ---
 
-# Tech Stack
+## Projects
 
-## Languages & Data
+| Project | What it is |
+|--------|------------|
+| [Secure HR Assistant with NeMo Guardrails](https://github.com/mynulIslam95/secure-hr-guardrails) | HR chatbot that answers policy questions only. Input rails (jailbreak / off-topic / PII), output PII checks, FastAPI, pytest. |
+| [LLM Red Teaming Toolkit](https://github.com/mynulIslam95/llm-redteam-pyrit) | Fixed attack set (injection, jailbreak, encoding, data extraction). Pass/fail scoring, JSON + HTML report. Mock mode or OpenAI. |
+
+---
+
+## Skills I use
+
+| Area | What I actually work with |
+|------|---------------------------|
+| AI security | LLMs, prompt engineering, NeMo Guardrails, input/output rails, PII checks, LLM red teaming |
+| Python | FastAPI, Pydantic, pytest, JSON, OpenAI API, Git |
+| Work | process documentation, service tracking, Excel reporting, stakeholder communication |
+
+---
+
+## Tech I put on GitHub
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## LLM & Generative AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-5C2D91?style=for-the-badge)
-
----
-
-## RAG & Vector Search
-
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-2C2C2C?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge)
-
----
-
-## Fine-Tuning
-
-![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge)
-![PEFT](https://img.shields.io/badge/PEFT-Fine_Tuning-orange?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA-Parameter_Efficient-blue?style=for-the-badge)
-![QLoRA](https://img.shields.io/badge/QLoRA-Quantized_Fine_Tuning-purple?style=for-the-badge)
-![Unsloth](https://img.shields.io/badge/Unsloth-LLM_Training-green?style=for-the-badge)
-
----
-
-## Backend & APIs
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
----
-
-## Python Engineering
-
-- Object Oriented Programming (OOP)
-- Async Python
-- Python Multithreading
-- API development
-- data processing pipelines
-
----
-
-## Evaluation & Safety
-
-![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-blue?style=for-the-badge)
-![Guardrails](https://img.shields.io/badge/Guardrails-AI_Safety-red?style=for-the-badge)
-![LLM_as_Judge](https://img.shields.io/badge/LLM_as_Judge-Evaluation-purple?style=for-the-badge)
-
----
-
-## Infrastructure & DevOps
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+Guardrails · prompt engineering · red teaming
 
 ---
 
-# Systems I Build
+## Education
 
-### RAG Applications
-AI systems that combine LLMs with external knowledge to reduce hallucination and improve reliability.
-
-### Agentic AI Systems
-Multi-agent architectures capable of reasoning, planning and tool usage.
-
-### Fine-Tuned Models
-Domain-adapted models trained using parameter-efficient fine-tuning techniques.
-
-### Production GenAI Applications
-End-to-end AI systems including backend APIs, evaluation pipelines and deployment infrastructure.
+- **MSc Information and Communication Engineering** — HAW Hamburg (since 04/2026)
+- **BSc Information Engineering** — HAW Hamburg (graduated 02/2026)  
+  Thesis: day-ahead renewable energy forecasting with Python and machine learning  
+  Coursework: Software Engineering, Operating Systems, Computer Networks, Database Systems
 
 ---
 
-# Engineering Style
+## Experience
 
-I prefer systems that are:
-
-- grounded instead of hallucinated  
-- practical instead of flashy  
-- scalable instead of fragile  
-- cleanly designed instead of patched together  
+- **Working Student, IT Governance and Service Operations** — Mondia Group, Hamburg (06/2024 – 08/2026)
+- **Working Student, Operations and Process Support** — Motion E-Commerce GmbH, Hamburg (11/2021 – 09/2023)
 
 ---
 
-# Current Focus
+## Learning next
 
-- advanced RAG architectures  
-- agentic AI systems  
-- LLM evaluation frameworks  
-- scalable AI deployment  
+These are on my CV as *interested in learning*, not as shipped projects:
+
+RAG · agent workflows · Mythos · vulnerability management · TARA · CRA
+
+---
+
+## How I like to work
+
+- Limits on the model, then tests — not only a system prompt  
+- Evidence (pytest, a report) instead of “it felt safe”  
+- Honest about what is mock vs a live model  
 
 ---
 
 <div align="center">
 
-Building intelligent systems that are useful, reliable and scalable.
+Hamburg · English (fluent) · German (B1)  
+[LinkedIn](https://linkedin.com/in/mynulislam95) · [GitHub](https://github.com/mynulIslam95)
 
 </div>
