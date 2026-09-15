@@ -9,7 +9,7 @@ Python, web pages, and IT operations. Previously a working student at Mondia Med
 ## Projects
 
 - [shop-pdp-seo-lab](https://github.com/mynulIslam95/shop-pdp-seo-lab) — product pages, SEO, conversion layout ([live](https://mynulislam95.github.io/shop-pdp-seo-lab/))
-- [shop-ai-content-ops](https://github.com/mynulIslam95/shop-ai-content-ops) — product titles, meta and descriptions from facts
+- [shop-ai-content-ops](https://github.com/mynulIslam95/shop-ai-content-ops) — product titles, meta and descriptions from facts ([live](https://mynulislam95.github.io/shop-ai-content-ops/))
 - [secure-hr-guardrails](https://github.com/mynulIslam95/secure-hr-guardrails) — HR assistant with input/output checks
 - [llm-redteam-pyrit](https://github.com/mynulIslam95/llm-redteam-pyrit) — attack tests and an HTML report
 
